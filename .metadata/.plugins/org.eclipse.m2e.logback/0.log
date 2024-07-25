@@ -1,0 +1,403 @@
+2024-07-23 20:35:11,585 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-23 20:44:20,064 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:userservice:0.0.1-SNAPSHOT @ C:\Users\mithp\OneDrive\Desktop\workspace\userservice\pom.xml.
+2024-07-23 20:44:28,047 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/main/java
+2024-07-23 20:44:28,051 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:44:28,061 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:44:28,072 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/test/java
+2024-07-23 20:44:28,075 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/test/resources
+2024-07-23 20:44:29,129 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2024-07-23 20:44:32,630 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:44:32,630 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:44:32,695 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:44:32,744 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:44:32,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:44:32,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:44:32,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-23 20:44:51,403 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:orderservice:0.0.1-SNAPSHOT @ C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\pom.xml.
+2024-07-23 20:44:53,583 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /orderservice/src/main/java
+2024-07-23 20:44:53,587 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /orderservice/src/main/resources
+2024-07-23 20:44:53,596 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /orderservice/src/main/resources
+2024-07-23 20:44:53,604 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /orderservice/src/test/java
+2024-07-23 20:44:53,606 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /orderservice/src/test/resources
+2024-07-23 20:44:54,321 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-07-23 20:44:55,661 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:44:55,662 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:44:55,663 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:44:55,690 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:44:55,703 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:44:55,703 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:44:55,703 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-23 20:45:23,969 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:inventoryservice:0.0.1-SNAPSHOT @ C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\pom.xml.
+2024-07-23 20:45:26,017 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inventoryservice/src/main/java
+2024-07-23 20:45:26,018 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventoryservice/src/main/resources
+2024-07-23 20:45:26,026 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventoryservice/src/main/resources
+2024-07-23 20:45:26,032 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inventoryservice/src/test/java
+2024-07-23 20:45:26,035 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventoryservice/src/test/resources
+2024-07-23 20:45:26,880 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-07-23 20:45:28,059 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:45:28,060 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:45:28,061 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:45:28,084 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:45:28,094 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:45:28,094 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:45:28,095 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-23 20:45:49,611 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:45:49,611 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:45:49,612 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:45:49,618 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:45:49,626 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:45:49,626 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:45:49,626 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-23 20:46:22,042 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-23 20:46:22,482 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:userservice:0.0.1-SNAPSHOT @ C:\Users\mithp\OneDrive\Desktop\workspace\userservice\pom.xml.
+2024-07-23 20:46:23,700 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/main/java
+2024-07-23 20:46:23,701 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:46:23,702 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:46:23,703 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/test/java
+2024-07-23 20:46:23,704 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/test/resources
+2024-07-23 20:46:24,139 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-23 20:46:24,823 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:46:24,823 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:46:24,824 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:46:24,844 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:46:24,854 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:46:24,854 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:46:24,854 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-23 20:46:50,111 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [359])
+2024-07-23 20:46:50,113 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-07-23 20:46:50,113 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-07-23 20:46:50,113 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-07-23 20:46:50,113 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-07-23 20:46:50,114 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-07-23 20:46:50,114 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-07-23 20:46:50,114 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-23 20:46:50,114 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-07-23 20:46:50,114 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-07-23 20:46:50,115 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-07-23 20:46:50,116 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-07-23 20:46:50,117 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-07-23 20:46:50,118 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-07-23 20:46:50,119 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-07-23 20:46:50,121 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [29])
+2024-07-23 20:46:50,121 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\com.google.guava_33.2.0.jre.jar
+2024-07-23 20:46:50,123 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [592])
+2024-07-23 20:46:50,123 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\slf4j.api_2.0.13.jar
+2024-07-23 20:46:50,123 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [44])
+2024-07-23 20:46:50,124 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-23 20:46:50,124 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [53])
+2024-07-23 20:46:50,124 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-07-23 20:46:50,124 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [76])
+2024-07-23 20:46:50,125 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.apache.commons.cli_1.8.0.jar
+2024-07-23 20:46:50,125 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-23 20:46:50,125 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-23 20:46:50,125 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [82])
+2024-07-23 20:46:50,126 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-23 20:46:50,126 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2024-07-23 20:46:50,127 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mithp\Downloads\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-23 20:46:50,136 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\mithp\OneDrive\Desktop\workspace\userservice":
+2024-07-23 20:46:50,143 [Worker-16: Launching Executing clean in C__Users_mithp_OneDrive_Desktop_workspace_userservice] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-07-23 20:47:07,626 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:47:07,626 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:47:07,626 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:47:07,630 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:47:07,637 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:47:07,637 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:47:07,637 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-23 20:48:39,444 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-23 20:48:40,041 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:userservice:0.0.1-SNAPSHOT @ C:\Users\mithp\OneDrive\Desktop\workspace\userservice\pom.xml.
+2024-07-23 20:48:41,351 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/main/java
+2024-07-23 20:48:41,352 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:48:41,352 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/main/resources
+2024-07-23 20:48:41,354 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userservice/src/test/java
+2024-07-23 20:48:41,356 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userservice/src/test/resources
+2024-07-23 20:48:41,785 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-23 20:48:43,054 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:48:43,055 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:48:43,055 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 20:48:43,078 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 20:48:43,086 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 20:48:43,087 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 20:48:43,087 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-23 22:09:44,492 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:09:44,512 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:09:44,534 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 22:09:44,706 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 22:09:44,711 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:09:44,711 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:09:44,711 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-23 22:13:41,924 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:13:41,925 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:13:41,928 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 22:13:41,937 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 22:13:41,941 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:13:41,942 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:13:41,942 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-23 22:14:21,147 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:14:21,147 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:14:21,151 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 22:14:21,157 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 22:14:21,162 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:14:21,162 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:14:21,162 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-23 22:14:49,488 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:14:49,489 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:14:49,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-23 22:14:49,497 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-23 22:14:49,502 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-23 22:14:49,502 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-23 22:14:49,502 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-24 13:32:57,065 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 13:43:44,309 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:43:44,326 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:43:44,331 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 13:43:44,460 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 13:43:44,465 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:43:44,465 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:43:44,465 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 13:43:50,714 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:43:50,714 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:43:50,716 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 13:43:50,783 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 13:43:50,787 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:43:50,787 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:43:50,787 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 13:44:45,171 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:44:45,171 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:44:45,175 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 13:44:45,251 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 13:44:45,251 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 13:44:45,251 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 13:44:45,251 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 21:31:35,627 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 21:31:35,633 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 21:31:35,634 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 21:31:35,892 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 21:31:35,906 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 21:31:35,906 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 21:31:35,906 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-24 21:47:52,376 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 21:47:52,384 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 21:47:52,389 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 21:47:52,425 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 21:47:52,436 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 21:47:52,436 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 21:47:52,437 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 22:03:19,792 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:03:19,795 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:03:19,798 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 22:03:19,848 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 22:03:19,855 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:03:19,856 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:03:19,856 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 22:14:39,519 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:14:39,522 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:14:39,524 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 22:14:39,540 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 22:14:39,543 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:14:39,543 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:14:39,543 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 22:16:41,791 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:16:41,792 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:16:41,793 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 22:16:41,827 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 22:16:41,831 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 22:16:41,831 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 22:16:41,831 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-24 23:06:36,284 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:06:36,290 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:06:36,317 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 23:06:36,378 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 23:06:36,390 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:06:36,390 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:06:36,391 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-24 23:25:46,845 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:25:46,852 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:25:46,854 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 23:25:46,909 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 23:25:46,918 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:25:46,918 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:25:46,918 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-24 23:26:20,537 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:26:20,537 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:26:20,539 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 23:26:20,546 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 23:26:20,552 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-24 23:26:20,552 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-24 23:26:20,552 [Worker-160: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-25 00:07:50,402 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:07:50,406 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:07:50,408 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 00:07:50,484 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 00:07:50,489 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:07:50,489 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:07:50,489 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-25 00:40:39,343 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:40:39,347 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:40:39,350 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 00:40:39,400 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 00:40:39,407 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:40:39,407 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:40:39,407 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-25 00:50:22,341 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:50:22,342 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:50:22,344 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 00:50:22,358 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 00:50:22,363 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:50:22,363 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:50:22,363 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-25 00:55:58,017 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:55:58,018 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:55:58,020 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 00:55:58,026 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 00:55:58,029 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 00:55:58,029 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 00:55:58,029 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-25 19:15:38,052 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:15:38,064 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 19:15:38,065 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:15:38,547 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:15:38,564 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:15:38,564 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 19:15:38,565 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 19:56:20,455 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:56:20,457 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 19:56:20,465 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:56:20,516 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:56:20,522 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:56:20,523 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 19:56:20,523 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 20:07:10,036 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:07:10,036 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:07:10,038 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:07:10,087 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:07:10,093 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:07:10,094 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:07:10,094 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 20:14:25,411 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:25,413 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:14:25,414 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:14:25,437 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:14:25,444 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:25,444 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:14:25,444 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 20:23:03,446 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:23:03,446 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:23:03,448 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:23:03,513 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:23:03,520 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:23:03,521 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:23:03,521 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 20:43:00,644 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:43:00,648 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:43:00,650 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:43:00,684 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:43:00,691 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:43:00,691 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 20:43:00,692 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 22:02:09,719 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:02:09,749 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:02:10,918 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 22:02:11,347 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 22:02:11,598 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:02:11,598 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:02:11,601 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 22:02:22,937 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:02:22,949 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:02:22,951 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 22:02:23,190 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 22:02:23,207 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:02:23,207 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:02:23,207 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 22:03:01,604 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:03:01,604 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:03:01,605 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 22:03:01,816 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 22:03:01,825 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:03:01,825 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:03:01,825 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 22:03:42,461 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:03:42,462 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:03:42,464 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 22:03:42,479 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 22:03:42,483 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 22:03:42,483 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 22:03:42,483 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 23:00:31,179 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-25 23:00:45,080 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:45,084 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:45,090 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:00:45,115 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:00:45,125 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:45,125 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:45,125 [Worker-0: Launching inventoryservice - InventoryserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\inventoryservice\src\test\resources
+2024-07-25 23:00:49,428 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:49,428 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:49,429 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:00:49,468 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:00:49,478 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:49,478 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:49,478 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\orderservice\src\test\resources
+2024-07-25 23:00:51,925 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:51,925 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:51,926 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:00:51,955 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:00:51,965 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:00:51,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:00:51,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 23:05:12,493 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:12,493 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:12,496 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:05:12,505 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:05:12,510 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:12,510 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:12,510 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 23:05:15,911 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:15,911 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:15,913 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:05:15,919 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:05:15,925 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:15,927 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:15,927 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 23:05:23,936 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:23,936 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:23,938 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:05:23,945 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:05:23,955 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:05:23,955 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:05:23,955 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources
+2024-07-25 23:06:13,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:06:13,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:06:13,329 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 23:06:13,334 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 23:06:13,339 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 23:06:13,339 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-07-25 23:06:13,339 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mithp\OneDrive\Desktop\workspace\userservice\src\test\resources

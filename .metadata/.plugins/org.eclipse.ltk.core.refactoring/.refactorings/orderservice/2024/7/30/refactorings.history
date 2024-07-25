@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;retrieveOrder&apos; in &apos;com.example.orderservice.service.OrderService.getAllOrders()&apos; to &apos;retrievedOrder&apos;&#x0D;&#x0A;- Original project: &apos;orderservice&apos;&#x0D;&#x0A;- Original element: &apos;com.example.orderservice.service.OrderService.getAllOrders().retrieveOrder&apos;&#x0D;&#x0A;- Renamed element: &apos;retrieveOrder&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;retrieveOrder&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.orderservice.service{OrderService.java[OrderService~getAllOrders@retrieveOrder!1689!1727!1695!1707!QOrder;!0!false" name="retrievedOrder" references="true" stamp="1721848239086" version="1.0"/>
+</session>
